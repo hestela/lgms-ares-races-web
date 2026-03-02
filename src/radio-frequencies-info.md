@@ -25,34 +25,30 @@ nav_order: 1
 
 Sometimes the 2 meter channel is linked to W6PIY's other channels (on other bands). For the full list of channels, see: [http://www.wvara.org/onair.html](http://www.wvara.org/onair.html)
 
-**Command Net** (go to this repeater as appropriate):
-
-- **W6PIY-7 Repeater**, 70 cm band
-  - 441.350 MHz, + offset, 88.5 Hz CTCSS/PL tone
+**Command Net** (go to this repeater as appropriate):  
+**W6PIY-7 Repeater**, 70 cm band
+> 441.350 MHz, + offset, 88.5 Hz CTCSS/PL tone
 
 ### Local Tactical Channels
 
 **Tac 1: Primary VHF Tactical Channel** (the working channel after checking-in to the Resource Net, when you are deployed):
 
-- 147.480 MHz, Simplex, 88.5 Hz CTCSS/PL tone
+> 147.480 MHz, Simplex, 88.5 Hz CTCSS/PL tone
 
 **Tac 2: Secondary VHF Tactical Channel & LG-MS CERT VHF Tactical Channel**:
-
-- 146.595 MHz, Simplex, 88.5 Hz CTCSS/PL tone
+> 146.595 MHz, Simplex, 88.5 Hz CTCSS/PL tone
 
 **Tac 3: Primary UHF Tactical Channel**:
-
-- 441.000 MHz, Simplex, 88.5 Hz CTCSS/PL tone
+> 441.000 MHz, Simplex, 88.5 Hz CTCSS/PL tone
 
 ### County-wide Hospital Net (Controlled Channels)
 
 **Primary Voice Channel: N6NFI**:
-
-- 145.230 MHz, - offset, 100 Hz CTCSS/PL tone
+> 145.230 MHz, - offset, 100 Hz CTCSS/PL tone
 
 **Alternate Voice Channel**:
 
-- *(Not specified)*
+> *(Not specified)*
 
 ---
 
@@ -64,19 +60,19 @@ Sometimes the 2 meter channel is linked to W6PIY's other channels (on other band
 
 **Primary Node** for LG/MS (W1XSC):
 
-- 145.750 MHz
+> 145.750 MHz
 
 **Alternate Node** for LG/MS (W4XSC):
 
-- 145.690 MHz
+> 145.690 MHz
 
 **Primary Hospital Net Node** for ECH LG (W2XSC):
 
-- 145.690 MHz
+> 145.690 MHz
 
 **Alternate Hospital Net Node** for ECH LG (W4XSC):
 
-- 145.730 MHz
+> 145.730 MHz
 
 ### List of Tactical Addresses for Packet Messages associated with Los Gatos/Monte Sereno
 
