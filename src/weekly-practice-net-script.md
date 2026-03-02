@@ -1,7 +1,7 @@
 ---
 title: "Weekly Practice Net Script"
 parent: "Quick Links"
-nav_order: 1
+nav_order: 3
 ---
 
 # Weekly Practice Net Script

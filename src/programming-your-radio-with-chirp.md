@@ -1,7 +1,7 @@
 ---
 title: "Programming your radio with CHIRP"
-parent: "Radio Frequencies Info"
-nav_order: 1
+parent: "Quick Links"
+nav_order: 2
 ---
 # Programming your radio with CHIRP
 
