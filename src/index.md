@@ -9,7 +9,7 @@ nav_order: 1
 # Emergency Radio Communications Volunteers
 
 <img src="../../files/ares-logo.svg" width="120" height="120">
-<img src="../../files/races-logo.png" width="120" height="120">
+<img src="../../files/races-logo.webp" width="120" height="120">
 
 [www.losgatosca.gov/2026/Emergency-Preparedness](https://www.losgatosca.gov/2026/Emergency-Preparedness)
 

@@ -19,31 +19,31 @@ What we typically do is the following:
 2. Power up your radio. You may not hear the usual power-up announcement - that’s OK.
 3. “Download” (“Radio" -> “Download from Radio”) the current radio image. CHIRP will display a dialog like the following:
 
-![](../../files/chrip-radio.png)
+![](../../files/chrip-radio.webp)
 
 4. Find the serial device that corresponds to your programming cable, the radio manufacturer and the radio model in the pop-up dialog; hit “OK"
 5. Folow the instructions displayed for your radio:
 
-![](../../files/chirp-ok-box.png)
+![](../../files/chirp-ok-box.webp)
 
 6. hit “OK” to start the download, which should display a progress dialog that looks like this:
 
-![](../../files/chip-clone.png)
+![](../../files/chip-clone.webp)
 
 7. You should now see whatever radio channels may have been in your radio at the factory for testing:
 
-![](../../files/chirp-freq-1.png)
+![](../../files/chirp-freq-1.webp)
 
 8. “Import” (“File” -> “Import”) the “CERT Frequency List.csv” file
 9. Select “All” channels to be imported (CHIRP can also import a selected subset of channels:
 
-![](../../files/chirp-freq-2.png)
+![](../../files/chirp-freq-2.webp)
 
 10. Click OK
 
 You should now see all channels appearing in your channel list in CHIRP:
 
-![](../../files/chirp-freq-3.png)
+![](../../files/chirp-freq-3.webp)
 
 11. “Upload” the new programming to your radio (“Radio” -> “Upload to Radio”). Follow the instructions shown to prepare your radio.
 12. Click OK and follow the instructions displayed
