@@ -86,5 +86,3 @@ While the FCC does not have any restriction on the age of a license holder, for 
 - WB6KHP Dave S (San Jose) — WVARA board member
 
 ### Member Roster
-FIXME: broken link  
-Members List — Google Sheets

@@ -2,7 +2,6 @@
 title: "About Us"
 nav_order: 1
 ---
-
 # Los Gatos/Monte Sereno ARES
 
 # CERT-ARES-RACES Emergency Service

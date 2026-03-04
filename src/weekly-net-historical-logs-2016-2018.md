@@ -6,8 +6,6 @@ parent: "Nets"
 
 
 # Weekly Net Historical logs (2016-2018)
-FIXME: find better way to insert data here
-
 Post date: Aug 25, 2014 12:34:15 AM
 
 **Counts**
